@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I worked with Kotlin for almost 2 years as a Backend Engineer @ N26. I hold two degrees: Maths & Computer Science. In my CS Thesis, I proved new theorems in the field of runtime complexity for a type of AI known as evolutionary algorithms.
+
+- 🌱 I’m currently learning front-end through React & TypeScript, and how to do deployments from scratch without using the cloud.
+
+- 📫 How to reach me: [@MoTheAdult](https://twitter.com/MoTheAdult)
+
 <!--
 **muhammadrahim/muhammadrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
