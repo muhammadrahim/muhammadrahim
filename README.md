@@ -4,7 +4,7 @@ I worked with Kotlin for almost 2 years as a Backend Engineer @ N26. I hold two 
 
 - 🌱 I’m currently learning front-end through React & TypeScript, and how to do deployments from scratch without using the cloud.
 
-- 📫 How to reach me: [@MoTheAdult](https://twitter.com/MoTheAdult)
+- 📫 How to reach me: [@muham_rahim](https://twitter.com/muham_rahim)
 
 <!--
 **muhammadrahim/muhammadrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
